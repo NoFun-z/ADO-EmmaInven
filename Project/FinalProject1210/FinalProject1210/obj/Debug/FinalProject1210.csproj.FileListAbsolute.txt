@@ -1,0 +1,9 @@
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\bin\Debug\Emmas.mdf
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\bin\Debug\Emmas_log.ldf
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\bin\Debug\FinalProject1210.dll.config
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\bin\Debug\FinalProject1210.dll
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\bin\Debug\FinalProject1210.pdb
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\obj\Debug\FinalProject1210.csproj.AssemblyReference.cache
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\obj\Debug\FinalProject1210.csproj.CoreCompileInputs.cache
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\obj\Debug\FinalProject1210.dll
+C:\PC utilities\Study files\.Second year term 1\.PROG1210\Final Project\Project\FinalProject1210\FinalProject1210\obj\Debug\FinalProject1210.pdb
